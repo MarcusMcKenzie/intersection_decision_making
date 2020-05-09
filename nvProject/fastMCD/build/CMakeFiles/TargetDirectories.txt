@@ -1,0 +1,3 @@
+/home/kivi/Desktop/MotionDetection/fastMCD/build/CMakeFiles/edit_cache.dir
+/home/kivi/Desktop/MotionDetection/fastMCD/build/CMakeFiles/rebuild_cache.dir
+/home/kivi/Desktop/MotionDetection/fastMCD/build/CMakeFiles/fastMCD.dir
