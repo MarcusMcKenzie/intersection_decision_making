@@ -4,9 +4,9 @@
 
 
 ### Software Required
-Python3
-Yolo
-Darknet
+* Python3
+* Yolo
+* Darknet
 
 
 ### Installing
@@ -32,6 +32,7 @@ mkdir -p obj
 wget https://pjreddie.com/media/files/yolov3.weights
 
 To run the detector:
+
 ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
 
 ```
