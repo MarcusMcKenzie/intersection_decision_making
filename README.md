@@ -1,7 +1,6 @@
 # Intersection Decision Making
-
-
-
+Intersection detection is a method to determine whether or not it is safe for a car to move, based on potential obstacles in its environment. The software implements Darknet, an open source convolutional neurak network, and yolo, an object detection framework, to detect crossing cars/pedestrians and determine when it is safe to proceed. The data was gathered using the various cameras on NU's self driving car.
+ 
 
 ### Software Required
 * Python3
