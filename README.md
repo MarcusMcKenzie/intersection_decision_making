@@ -1,12 +1,10 @@
 # Intersection Decision Making
 Intersection detection is a method to determine whether or not it is safe for a car to move, based on potential obstacles in its environment. The software implements Darknet, an open source convolutional neurak network, and yolo, an object detection framework, to detect crossing cars/pedestrians and determine when it is safe to proceed. The data was gathered using the various cameras on NU's self driving car.
  
-
 ### Software Required
 * Python3
 * Yolo
 * Darknet
-
 
 ### Installing
 
@@ -16,7 +14,6 @@ $ sudo add-apt-repository ppa:deadsnakes/ppa
 $ sudo apt-get update
 $ sudo apt-get install python3.6
 ```
-
 #### Darknet
 ```
 git clone https://github.com/pjreddie/darknet.git
@@ -25,18 +22,15 @@ make
 mkdir -p obj
 ./darknet
 ```
-
 #### Yolo
 ```
 wget https://pjreddie.com/media/files/yolov3.weights
 ```
-
 To run the detector:
 
 ```
 ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
 ```
-
 
 ### Results
 https://www.dropbox.com/s/enfxz1v31fb323w/intersection.avi?dl=0
