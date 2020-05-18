@@ -38,11 +38,14 @@ To run the detector:
 
 #### Videos
 
-4-way Intersection:
+4-way Intersection: 
+<br />
 https://www.dropbox.com/s/enfxz1v31fb323w/intersection.avi?dl=0
 
 Making Left Turn:
+<br />
 https://www.dropbox.com/s/dddh63svqcbi4hj/left_turn.MOV?dl=0
 
 Driving Down Straight Road:
+<br />
 https://www.dropbox.com/s/rlh6glk9mb2nhkw/straight.avi?dl=0
