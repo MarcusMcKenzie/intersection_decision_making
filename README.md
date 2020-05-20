@@ -37,7 +37,6 @@ To run the detector:
 #### Images
 
 #### Videos
-
 4-way Intersection: 
 <br />
 https://www.dropbox.com/s/enfxz1v31fb323w/intersection.avi?dl=0
