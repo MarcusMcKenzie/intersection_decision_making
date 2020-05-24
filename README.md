@@ -36,7 +36,7 @@ To run the detector:
 
 #### Images
 
- <img src="images/detection.jpg" alt="enclosure" width="300"/>  <img src="images/recognition.jpg" alt="enclosure" width="300"/> <br/> <br/> <img src="images/safe.png" alt="enclosure" width="300"/>  <img src="images/unsafe.png" alt="enclosure" width="300"/>
+ <img src="images/detection.png" alt="enclosure" width="300"/>  <img src="images/recognition.png" alt="enclosure" width="300"/> <br/> <br/> <img src="images/safe.png" alt="enclosure" width="300"/>  <img src="images/not safe.png" alt="enclosure" width="300"/>
 
 
 #### Videos
