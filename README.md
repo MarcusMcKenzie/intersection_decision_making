@@ -36,10 +36,10 @@ To run the detector:
 
 #### Images
 
-     Detection                           Recognition
+   ##### Detection                           ##### Recognition
 <img src="images/detection.png" alt="enclosure" width="300"/>  <img src="images/recognition.png" alt="enclosure" width="300"/> <br/> <br/> 
 
-     Safe                               Unsafe
+   ##### Safe                               ##### Unsafe
 <img src="images/safe.png" alt="enclosure" width="300"/>  <img src="images/not safe.png" alt="enclosure" width="300"/>
 
 
