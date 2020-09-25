@@ -35,6 +35,7 @@ To run the detector:
 ### Results
 
 #### Images
+<br>
 
    ##### Detection and Recognition
 <img src="images/detection.png" alt="enclosure" width="300"/>  <img src="images/recognition.png" alt="enclosure" width="300"/> <br/> <br/> 
