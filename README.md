@@ -40,7 +40,7 @@ To run the detector:
    ##### Detection and Recognition
 <img src="images/detection.png" alt="enclosure" width="300"/>  <img src="images/recognition.png" alt="enclosure" width="300"/> <br/> <br/> 
 
-   ##### Safe and Unsafe Occurences
+   ##### Safe and Unsafe Occurrences
 <img src="images/safe.png" alt="enclosure" width="300"/>  <img src="images/not safe.png" alt="enclosure" width="300"/>
 
 
